@@ -39,7 +39,7 @@ In terms of extra credit for the project, we completed the use of System Text-to
 11. Click on the Villain's "Ask..." box and verify that no text is generated
 12. Done!
 
-![App Screenshot] (./assets/Screenshot 2025-01-02 012101.png) | (./assets/Screenshot 2025-01-02 012138.png)
+![App Screenshot] (./assets/Screenshot 2025-01-02 012101.png)
 
 
 # Test Video (link):
